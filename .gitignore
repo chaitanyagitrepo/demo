@@ -33,3 +33,8 @@ Thumbs.db
 ehthumbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
+
+#ignoreMDAPI files
+manifest/layouts
+manifest/objects
+manifest/classes
